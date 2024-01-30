@@ -1,0 +1,18 @@
+Username: sahil20
+Password: sahil20
+• Items: [Canned beans, Baking powder, Canned beans]
+  Quantity: [3, 2, 34]
+  Price:    [5.37, 14.24, 60.86]
+• Items: [Canned beans, Baking powder, Canned beans, Baking soda, Dried fruits]
+  Quantity: [3, 2, 34, 5, 19]
+  Price:    [5.37, 14.24, 60.86, 23.1, 38.949999999999996]
+• Items: [Canned beans, Baking powder, Canned beans, Baking soda, Dried fruits]
+  Quantity: [3, 2, 34, 5, 19]
+  Price:    [5.37, 14.24, 60.86, 23.1, 38.949999999999996]
+
+• Removed item(s): [Canned beans, Baking powder, Canned beans, Baking soda]
+  Quantity: [3, 2, 34, 5]
+  Price:    [5.37, 14.24, 60.86, 23.1]
+• Items: [Canned beans, Baking powder, Canned beans, Baking soda]
+  Quantity: [3, 2, 34, 5]
+  Price:    [5.37, 14.24, 60.86, 23.1]
